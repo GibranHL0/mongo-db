@@ -1,7 +1,7 @@
 FROM mongo:6.0.4
 
-LABEL version="0.7"
-LABEL maintener="gibran.devops@gmail.com"
+LABEL version="0.9"
+LABEL maintainer="gibran.devops@gmail.com"
 
 ENV MONGO_INITDB_ROOT_USERNAME="gibran"
 ENV MONGO_INITDB_ROOT_PASSWORD="password"
